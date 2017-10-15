@@ -1,0 +1,88 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+      background-color: 43D5FF;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color: #FF0000;
+        padding-left: 50px;
+        border: 10px solid black;
+        border-radius: 20px;
+        margin: 0px 10px 0px 10px;
+        font-size: 15px;
+        display: block;
+        width: 800px;
+    }
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        font-size: 25;
+    }
+    a {
+        color:  ;
+    }
+  .purple-background {
+    background-color: red;
+  }
+    section {
+        width: 800px;
+        display: inline-block;
+        float: left;
+            }
+  .recent {
+    background-color: #FF0000;
+    padding-left: 50px;
+    border: 10px solid black;
+    margin: 0px 10px 0px 10px;
+    font-size: 15px;
+    display: block;
+    border-radius: 20px;
+            }
+    .roundedcorners {
+        border-radius: 10px;
+        border: 3px solid #BADA55 ;
+            }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 90px;
+        background-color:FF0000;
+        color:;
+        clear: both;
+        display: block;
+        margin-left: 2.5%;
+    }
+    h5 {
+      padding: 0;
+    }
